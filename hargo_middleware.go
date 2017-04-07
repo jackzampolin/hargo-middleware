@@ -1,4 +1,4 @@
-package main
+package hargo_middleware
 
 import (
 	"bytes"
